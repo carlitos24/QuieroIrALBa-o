@@ -1,4 +1,5 @@
  **Necesito un baño**
+ 
 El proyecto trata sobre un nene en medio de córdoba con ganas de hacer pis sin encontrar un lugar para hacerlo xd
 
 La pagina principal es un mapa que direcciona a diferentes tipos de baños entre los que podes encontrar publico, semi privado y privado para que el usuario que necesita un baño pueda acceder rápidamente, además de un acceso a baños para discapacitados Premium y un botón para agregar baños desde el lugar en el que se encuentra el usuario.
