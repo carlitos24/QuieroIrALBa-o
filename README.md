@@ -17,10 +17,10 @@ Va a tener otra pagina que será la secundaria donde con la localización de la 
 ..* *Privado
 ..* *Semi privado
 ..* *Agregar localización (+)
-..* *Mapa
+..* Mapa
 
 	 **Agregar localización**
 ..*	*Nombre del lugar 
 ..*	*Tipo de baño 
 ..*	*Costo (solo se activa cuando el baño es privado o semi) 
-..*	*save
+..* save
